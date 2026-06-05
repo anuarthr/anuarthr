@@ -6,7 +6,7 @@
 
 Open to internships / Buscando prácticas profesionales
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuarth-alonso-rincon-gonzalez-03227b248/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuarthrincong/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=flat-square&logo=vercel&logoColor=white)](https://anuarthr.vercel.app)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anuarthrincongonzalez@gmail.com)
 
