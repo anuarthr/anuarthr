@@ -14,7 +14,9 @@
 
 ## About me
 
-Full-stack developer with a backend focus. At Quéjate, a Colombian civic-tech platform, I migrated a live backend to NestJS and shipped the Android app on Google Play. I care about secure APIs, automated testing and CI/CD, and I'm starting to learn data analysis with Python and SQL.
+I build applications end to end: REST APIs with NestJS, Django and Spring Boot, web frontends with React and Next.js, and Android apps with React Native and Kotlin. I enjoy owning the full picture of a system, from data modeling to UI interactions, and I care about secure APIs, automated testing and CI/CD.
+
+I'm also curious about data and security. I'm starting to learn data analysis with Python and SQL, I like exploring machine learning, recommendation systems and spatial databases, and I enjoy finding and fixing vulnerabilities in APIs.
 
 ---
 
